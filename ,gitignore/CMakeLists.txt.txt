@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.2)
+
+
+project(Observer)
+
+
+add_executable(chat_room chat_room.cpp)
+
